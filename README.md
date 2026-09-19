@@ -5,7 +5,7 @@ card checker 3D's using python 3.13
 
 ## Installation
 ```
-- git clone 
+- git clone https://github.com/tepeed/vbv-.git
 - pip install requests asyncio aiohttp faker colorama pyfiglet httpx pycryptodome distro
 - cd vbv
 - pip install -r requiremets.txt
